@@ -7,3 +7,4 @@ OpenAI强化学习竞赛
 2,opencv
 3,retro(OpenAI实验室下的一个游戏专用环境，里面集成了多个游戏供训练）
 
+RL_brain与run_this是正常使用版，RL_brain_2与run_this_old是原来旧的版本，RL_brain_submit与run_this_submit是提交到OpenAI的版本，因为OpenAI服务器与本地使用的环境不一样。正常使用就用RL_brain与run_this即可
